@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="status_bar_height">35dp</dimen>
+
+    <dimen name="width">100dp</dimen>
+    <dimen name="height">100dp</dimen>
+
+    <dimen name="ad_height">240dp</dimen>
+
+    <dimen name="icon_width">32dp</dimen>
+    <dimen name="icon_height">32dp</dimen>
+
+    <dimen name="edit_width">280dp</dimen>
+    <dimen name="edit_height">60dp</dimen>
+    <dimen name="dividing_line_height">24dp</dimen>
+
+    <dimen name="margin">15dp</dimen>
+    <dimen name="padding">15dp</dimen>
+    <dimen name="primaryMargin">8dp</dimen>
+    <dimen name="primaryPadding">5dp</dimen>
+    <dimen name="profileMargin">20dp</dimen>
+
+    <dimen name="superExtraLargeTextSize">20sp</dimen>
+    <dimen name="extraLargeTextSize">18sp</dimen>
+    <dimen name="largeTextSize">16sp</dimen>
+    <dimen name="middleTextSize">14sp</dimen>
+    <dimen name="normalTextSize">12sp</dimen>
+    <dimen name="smallTextSize">10sp</dimen>
+    <dimen name="tinyTextSize">8sp</dimen>
+
+    <dimen name="cardCornerRadius">6dp</dimen>
+    <dimen name="cardElevation">3dp</dimen>
+    <dimen name="smallCornerRadius">5dp</dimen>
+    <dimen name="lowerElevation">2dp</dimen>
+
+    <dimen name="ad_radius">10dp</dimen>
+</resources>

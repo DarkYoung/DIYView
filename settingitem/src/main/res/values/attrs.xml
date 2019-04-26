@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SettingItem">
+        <attr name="left_text" format="string"/>
+        <attr name="left_icon" format="integer"/>
+        <attr name="right_icon" format="integer"/>
+        <attr name="right_icon_tint" format="color"/>
+        <attr name="left_text_size" format="dimension"/>
+        <attr name="left_text_color" format="color"/>
+        <attr name="left_icon_size" format="dimension"/>
+        <attr name="left_text_margin_left" format="dimension"/>
+        <attr name="right_icon_style" format="enum">
+            <enum name="Show" value="0"/>
+            <enum name="Hide" value="1"/>
+            <enum name="Switch" value="2"/>
+        </attr>
+        <attr name="right_tip_style" format="enum">
+            <enum name="Text" value="0"/>
+            <enum name="CircleImage" value="1"/>
+        </attr>
+        <attr name="right_text" format="string"/>
+        <attr name="right_text_size" format="dimension"/>
+        <attr name="right_text_color" format="color"/>
+        <attr name="right_circle_image" format="integer"/>
+        <attr name="right_circle_image_size" format="dimension"/>
+    </declare-styleable>
+</resources>
